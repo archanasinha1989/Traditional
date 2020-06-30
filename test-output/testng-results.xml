@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7296" started-at="2020-06-28T14:21:30Z" finished-at="2020-06-28T14:21:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7296" started-at="2020-06-28T14:21:30Z" finished-at="2020-06-28T14:21:38Z">
+      <class name="Academy.Filtters">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.Filtters@6b927fb]" name="initialize" is-config="true" duration-ms="6640" started-at="2020-06-28T19:51:30Z" finished-at="2020-06-28T19:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Filter()[pri:1, instance:Academy.Filtters@6b927fb]" name="Filter" duration-ms="437" started-at="2020-06-28T19:51:37Z" finished-at="2020-06-28T19:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.Filtters@6b927fb]" name="teardown" is-config="true" duration-ms="200" started-at="2020-06-28T19:51:37Z" finished-at="2020-06-28T19:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.Filtters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
