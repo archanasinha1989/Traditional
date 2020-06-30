@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Academy.Listeners"/>
+</listeners>
+
+  <test name="Validating User login">
+    <classes>
+      <class name="Academy.HomePage"/>
+          </classes>
+      </test>
+      
+   <test name="Validating on mouse hover">
+    <classes>
+      <class name="Academy.OnMouseHover"/>
+          </classes>
+      </test>
+      
+      <test name="Validating on Productdetails">
+    <classes>
+      <class name="Academy.ProductDetailsPage"/>
+          </classes>
+      </test>
+      
+       <test name="Validating on filters">
+    <classes>
+      <class name="Academy.Filtters"/>
+          </classes>
+      </test>
+   <!-- Test -->
+</suite> <!-- Suite -->
