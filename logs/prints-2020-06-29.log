@@ -1,0 +1,7 @@
+19:51:37.646 [main] INFO  resources.base - Reset is  disable by default
+19:51:37.745 [main] INFO  resources.base - click on  Price filter
+19:51:37.825 [main] INFO  resources.base - click on  filter Button
+19:51:37.929 [main] INFO  resources.base - click on  Reset Button
+19:51:37.993 [main] INFO  resources.base - checkbox is checked after clicked on Reset button
+21:06:23.169 [main] INFO  resources.base - click on  Product
+21:07:13.312 [main] INFO  resources.base - ADD TO CART BUTTON Elementpresent on the page
